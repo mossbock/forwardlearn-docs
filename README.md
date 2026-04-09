@@ -1,4 +1,4 @@
-# Project-Based Learning Portfolio by Shawn Blanchard
+# Project-Based Learning Portfolio by Shawnie Blanchard
 
 This portfolio:<br>
 - Demonstrates cATO (continuous Authorization to Operate) documentation knowledge. 
@@ -6,7 +6,7 @@ This portfolio:<br>
 management framework (RMF) documentation and modern DevSecOps practices.<br>
 - Shows how automated evidence collection can feed risk and compliance (GRC) documentation.<br> 
 
-The portfolio:<br>
+The portfolio also:<br>
 - Demonstrates my understanding of Git, docs-as-code, RMF, and DevSecOps.<br>
 - Aligns system security plan (SSP) and software design document (SDD) sections.<br>
 - Includes RMF controls and architectural integration points.<br>
@@ -20,4 +20,4 @@ The portfolio includes detailed security documentation to show my understanding 
 - SAST/IAST/DAST methodology.<br>
 - The NIST 800-53 RMF.<br> 
 
-© 2025 docupro23 and Shawn K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc.
+© 2025 docupro23 and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc.
