@@ -1,33 +1,33 @@
 # Project-Based Learning Portfolio by Shawnie Blanchard
-Self-directed professional development track focused on OSCAL, OPA, and FedRAMP automation. 
+Self-directed professional development track focused on OPA, OSCAL, and FedRAMP/StateRAMP automation. I'm spinning up on evidence pipeline architecture (telemetry to mapping to OSCAL artifact generation).
 
-Using Claude for prof dev assistance, I have identified a gap in the need to translate existing engineering documentation (SDDs, ICDs, DBDDs) and system-generated .mds into OSCAL component definitions and modernized SSPs. I am working to provide a bridge between "OPA produced a result" and "that result is now living evidence in the ATO package." 
+Using Claude for prof dev assistance, I am looking at how to help organizations:
+- Close the gap between engineering and their compliance posture.
+- Capture and translate the evidence layer, the OSCAL layer, and the eMASS layer (e.g., by-component, implementation-status).
+- Get everything machine-readable for RFC-0024 and 20x.
 
 This portfolio:<br>
 - Demonstrates my cATO (continuous Authorization to Operate) knowledge. 
-- Bridges traditional risk
-management framework (RMF) documentation and modern DevSecOps practices.<br>
-- Shows how automated evidence collection can feed risk and compliance (GRC) documentation.<br> 
+- Bridges traditional risk management framework (RMF) documentation, SSPs, POAMs, CDRLs, and modern DevSecOps practices.<br>
+- Shows how automated evidence collection can feed risk and compliance (GRC) documentation using policy-as-code, compliance-as-code, and docs-as-code.<br>
 
 Learning goals currently include:
-- Build technical fluency in OSCAL — structure, schema, tooling, and real-world usage.<br>
 - Understand the FedRAMP automation repository and how practitioners are using it.<br>
-- Follow GitHub discussions, NIST community calls, and emerging patterns.<br>
+- Follow NIST community calls and emerging patterns.<br>
 - Develop mental model of how existing RMF documentation maps to OSCAL constructs.<br>
 
-The portfolio also demonstrates my understanding of Git, docs- and policy-as-code, RMF controls, and DevSecOps integration concepts. 
-The portfolio:<br>
-- Aligns sections from system security plans (SSPs) and contract data requirements lsit (CDRL) documents.<br>
+The portfolio looks at evidence mapping using the following: infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. It
 - Includes architectural integration points.<br>
 - Maps security practices to pipeline stages.<br>
 - Shows how to document continuous monitoring for GRC purposes.<br>
 
-The portfolio includes:<br>
-- Docs-as-code principles.<br>
-- Policy-as-code principles.<br>
-- Git version control.<br>
-- CI/CD for automatic deployment.<br>
+The portfolio includes dives into:<br>
+- Lula, Trestle, RegScale, Paramify.
+- Terraform and CloudFormation charts.
+- Nessus results and STIG checklists.
+- AWS Config, Azure Resource Graph, GCP Asset Inventory.
+- AWS Security Hub, Azure Policy, and GCP Security Command.
 - SAST/IAST/DAST methodology.<br>
-- The NIST 800-53 RMF and .<br> 
+- All the NIST 800s.<br> 
 
-© 2026 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc.
+© 2026 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc. How may I be of service to your mission?
