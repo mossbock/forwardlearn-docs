@@ -16,7 +16,7 @@ Learning goals currently include:
 - Follow NIST community calls and emerging patterns.<br>
 - Develop mental model of how existing RMF documentation maps to OSCAL constructs.<br>
 
-The portfolio looks at evidence mapping using the following: infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. It
+The portfolio looks at evidence mapping using the following: infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. It:
 - Includes architectural integration points.<br>
 - Maps security practices to pipeline stages.<br>
 - Shows how to document continuous monitoring for GRC purposes.<br>
