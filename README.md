@@ -20,4 +20,4 @@ The portfolio includes detailed security documentation to show my understanding 
 - SAST/IAST/DAST methodology.<br>
 - The NIST 800-53 RMF.<br> 
 
-© 2025 docupro23 and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc.
+© 2025 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc.
