@@ -5,7 +5,7 @@ Using Claude for prof dev assistance, I'm spinning up on evidence pipeline archi
 - Close the gap between engineering and compliance posture.
 - Capture and translate the evidence layer, the OSCAL layer, and the eMASS layer (e.g., by-component; implementation-status).
 - Get everything machine-readable for RFC-0024 and 20x.
-- Get the old-school SSPs, SARs, POAMs, and RMF policy docs ready if none of the above are in place yet.
+- Get the old-school SSPs, SARs, POAMs, and RMF policy docs ready if none of the above are in place yet - artifact packaging, narration, and presentation.
 
 This portfolio:<br>
 - Demonstrates my cATO (continuous Authorization to Operate) knowledge. 
@@ -18,7 +18,7 @@ Current goals include:
 - Develop mental model of how existing RMF documentation maps to OSCAL constructs.<br>
 - Dive deep into:
   - All the NIST 800s.<br> 
-  - Lula, Trestle, RegScale, Paramify.
+  - Pri: Trestle and Lula (RegScale and Paramify a bit later).
   - Terraform and CloudFormation charts.
   - Nessus results and STIG checklists.
   - AWS Config/Azure Resource Graphs/GCP Asset Inventory.
@@ -26,5 +26,7 @@ Current goals include:
   - SAST/IAST/DAST methodology.<br>
 
 The portfolio looks at evidence mapping using the following: infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews.
+
+Parallel learning ongoing for eMASS fluency and post-auth CoNMon operations. I should get CompTIA+ Security and CyberSecurity as well. 
 
 © 2026 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc. How may I be of service to your mission?
