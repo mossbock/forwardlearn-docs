@@ -14,7 +14,8 @@ Learning goals currently include:
 •	Follow the practitioner community: GitHub discussions, NIST community calls, emerging patterns.
 •	Develop mental model of how existing RMF documentation maps to OSCAL constructs.
 
-The portfolio also demonstrates my understanding of Git, docs- and policy-as-code, RMF controls, and DevSecOps integration concepts. It:<br>
+The portfolio also demonstrates my understanding of Git, docs- and policy-as-code, RMF controls, and DevSecOps integration concepts. 
+The portfolio:<br>
 - Aligns sections from system security plans (SSPs) and contract data requirements lsit (CDRL) documents.<br>
 - Includes architectural integration points.<br>
 - Maps security practices to pipeline stages.<br>
