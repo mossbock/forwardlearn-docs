@@ -3,7 +3,7 @@ Self-directed professional development track focused on OPA, OSCAL, and FedRAMP/
 
 Using Claude for prof dev assistance, I'm spinning up on evidence pipeline architecture (telemetry mapping to OSCAL artifact generation) and looking at how to help organizations:
 - Close the gap between engineering and their compliance posture.
-- Capture and translate the evidence layer, the OSCAL layer, and the eMASS layer (e.g., by-component, implementation-status).
+- Capture and translate the evidence layer, the OSCAL layer, and the eMASS layer (e.g., by-component; implementation-status).
 - Get everything machine-readable for RFC-0024 and 20x.
 
 This portfolio:<br>
