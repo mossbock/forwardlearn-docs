@@ -1,7 +1,7 @@
 # Project-Based Learning Portfolio by Shawnie Blanchard
 Self-directed professional development track focused on OSCAL, OPA, and FedRAMP automation. 
 
-Using Claude for prof dev assistance, I have identified a gap in the need to translate existing engineering documentation (SDDs, ICDs, DBDDs) and system-generated .mds into OSCAL component definitions and modernized SSPs. I am working to provide bridge between "OPA produced a result" and "that result is now living evidence in the ATO package." 
+Using Claude for prof dev assistance, I have identified a gap in the need to translate existing engineering documentation (SDDs, ICDs, DBDDs) and system-generated .mds into OSCAL component definitions and modernized SSPs. I am working to provide a bridge between "OPA produced a result" and "that result is now living evidence in the ATO package." 
 
 This portfolio:<br>
 - Demonstrates my cATO (continuous Authorization to Operate) knowledge. 
