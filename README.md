@@ -27,6 +27,6 @@ Current goals include:
 
 The portfolio looks at evidence mapping using the following: infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews.
 
-Parallel learning ongoing for eMASS fluency and post-auth CoNMon operations. I should get CompTIA+ Security and CyberSecurity as well. 
+Parallel learning ongoing for eMASS fluency and post-auth ConMon operations. I should get CompTIA+ Security and CyberSecurity as well. 
 
 © 2026 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc. How may I be of service to your mission?
