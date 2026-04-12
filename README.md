@@ -18,7 +18,7 @@ Current goals include:
 - Develop mental model of how existing RMF documentation maps to OSCAL constructs.<br>
 - Dive deep into:
   - All the NIST 800s.<br> 
-  - Pri: Trestle and Lula (RegScale and Paramify a bit later).
+  - Trestle, Lual, RegScale, and Paramify.
   - Terraform and CloudFormation charts.
   - Nessus results and STIG checklists.
   - AWS Config/Azure Resource Graphs/GCP Asset Inventory.
