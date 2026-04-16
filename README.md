@@ -12,21 +12,19 @@ This portfolio:<br>
 - Bridges traditional risk management framework (RMF) documentation and modern DevSecOps practices.<br>
 - Shows how automated evidence collection can feed risk and compliance (GRC) documentation using policy-as-code, docs-as-code, and compliance-as-code.<br>
 
-Current goals include:
+The portfolio looks at evidence mapping using the following: Infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. Current goals include:
 - Understand the FedRAMP automation repository and how practitioners are using it.<br>
 - Follow NIST community calls and emerging patterns.<br>
 - Develop mental model of how existing RMF documentation maps to OSCAL constructs.<br>
-- Dive deep into:
+- Dives into:
   - All the NIST 800s.<br> 
-  - Trestle, Lual, RegScale, and Paramify.
+  - Trestle, Lula, RegScale, and Paramify.
   - Terraform and CloudFormation charts.
   - Nessus results and STIG checklists.
+  - SAST/IAST/DAST methodology.<br>
   - AWS Config/Azure Resource Graphs/GCP Asset Inventory.
   - AWS Security Hub/Azure Policy/GCP Security Command.
-  - SAST/IAST/DAST methodology.<br>
-
-The portfolio looks at evidence mapping using the following: infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews.
-
-Parallel learning ongoing for eMASS fluency and post-auth ConMon operations. I should get CompTIA+ Security and CyberSecurity as well. 
+  
+Parallel learning ongoing for eMASS fluency and post-auth ConMon operations. I should get CompTIA+ Security and CyberSecurity as well, in my copious free time. 
 
 © 2026 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc. How may I be of service to your mission?
