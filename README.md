@@ -1,5 +1,5 @@
 # Project-Based Learning Portfolio by Shawnie Blanchard
-Self-directed professional development track focused on OPA, OSCAL, and FedRAMP/StateRAMP automation.
+Self-directed professional development track for OPA, OSCAL, and FedRAMP/StateRAMP automation.
 
 Using Claude for prof dev assistance, I'm spinning up on evidence pipeline architecture and looking at how to help organizations:
 - Close the gap between engineering and compliance posture.
