@@ -1,4 +1,4 @@
-# Project-Based Learning Portfolio by Shawnie Blanchard
+# GRC Engineering Learning Portfolio by Shawnie Blanchard: Project-Based
 Self-directed professional development track for OPA, OSCAL, and FedRAMP/StateRAMP automation.
 
 Using Claude for professional development, I'm spinning up on evidence pipeline architecture and looking at how to help organizations:
