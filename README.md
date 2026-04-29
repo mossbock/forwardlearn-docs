@@ -11,7 +11,7 @@ This portfolio:<br>
 - Shows how automated evidence collection can feed risk and compliance (GRC) using policy-as-code, docs-as-code, and compliance-as-code.<br>
 
 The portfolio looks at evidence mapping using the following: Infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. Current goals include:
-- Understand the FedRAMP automation repository and how practitioners are using it.<br>
+- Understanding the FedRAMP automation repository and how practitioners are using it.<br>
 - Following emerging patterns and the GRC community.<br>
 - Developing a mental model of how existing RMF documentation maps to OSCAL constructs.<br>
 - Dives into:
@@ -25,4 +25,4 @@ The portfolio looks at evidence mapping using the following: Infrastructure-as-c
   
 Parallel learning ongoing for eMASS fluency and post-auth ConMon operations. In my copious free time I should get CompTIA+ Security and CyberSecurity certified as well. 
 
-© 2026 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc. How may I be of service to your mission?
+© 2026 theMossbock and Shawnie K. N. Blanchard. This document is created with a human brain and is protected by copyright law. No part may be reused or reproduced without permission of the author etc. etc. How may I be of service to your team's mission?
