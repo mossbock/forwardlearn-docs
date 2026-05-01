@@ -14,12 +14,11 @@ The portfolio looks at evidence mapping using the following: Infrastructure-as-c
 - Understanding the FedRAMP automation repository and how practitioners are using it.<br>
 - Following emerging patterns and the GRC community.<br>
 - Developing a mental model of how existing RMF documentation maps to OSCAL constructs.<br>
-- Dives into:
+- Diving into:
   - All the NIST 800s.<br> 
   - Trestle, Lula, RegScale, and Paramify.
   - Terraform and CloudFormation charts.
   - Nessus results and STIG checklists.
-  - SAST/IAST/DAST methodology.<br>
   - AWS Config/Azure Resource Graphs/GCP Asset Inventory.
   - AWS Security Hub/Azure Policy/GCP Security Command.
   
