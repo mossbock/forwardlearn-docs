@@ -8,7 +8,7 @@ Self-directed professional development track for OPA, OSCAL, and FedRAMP/StateRA
 This portfolio:<br>
 - Demonstrates my cATO (continuous Authorization to Operate) knowledge. 
 - Bridges traditional risk management framework (RMF) documentation and modern DevSecOps practices.<br>
-- Shows how automated evidence collection can feed risk and compliance (GRC) using policy-as-code, docs-as-code, and compliance-as-code.<br>
+- Shows how automated evidence collection can feed gov risk and compliance (GRC) using policy-as-code, docs-as-code, and compliance-as-code.<br>
 
 The portfolio looks at evidence mapping using the following: Infrastructure-as-code (IaS), CI/CD pipelines, cloud provider native tools and inventories, scan outputs, network diagrams, firewall rules, and SME interviews. Current goals include:
 - Understanding the FedRAMP automation repository and how practitioners are using it.<br>
